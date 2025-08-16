@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @keko0766
 - 👀 I’m interested in GameDev
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Web Development / FrontEnd
